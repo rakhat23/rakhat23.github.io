@@ -6,57 +6,7 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rakhat Nurgali | Resume</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>Rakhat Nurgali</h1>
-        <p>Finance & Technology Enthusiast</p>
-        <p>📍 Atlanta, Georgia | 📧 <a href="mailto:rnurgali3@gatech.edu">rnurgali3@gatech.edu</a></p>
-        <a href="https://www.linkedin.com/in/rakhatnurgali" target="_blank">LinkedIn</a>
-    </header>
-    <section id="education">
-        <h2>Education</h2>
-        <p><strong>Georgia Institute of Technology</strong> | Scheller College of Business</p>
-        <p>Bachelor of Science in Business Administration – Finance Concentration, FinTech CS Minor (Fall 2025)</p>
-        <p>Honors: Faculty Honors (5 Semesters), Dean’s List</p>
-    </section>
-    <section id="experience">
-        <h2>Experience</h2>
-        <div>
-            <h3>Kaspi Bank</h3>
-            <p><em>Corporate and Investment Intern | May - August 2024</em></p>
-            <ul>
-                <li>Developed financial models for 12 M&A deals, contributing to $60M in closures.</li>
-                <li>Provided market insights to drive $15M+ investments.</li>
-                <li>Prepared pitch books, helping raise $75M+ for clients.</li>
-            </ul>
-        </div>
-        <div>
-            <h3>Asyl Logistics</h3>
-            <p><em>Financial Analyst Intern | June - August 2023</em></p>
-            <ul>
-                <li>Developed 30+ Excel models to test data accuracy.</li>
-                <li>Built financial models to forecast cash flows and key metrics.</li>
-            </ul>
-        </div>
-    </section>
-    <section id="skills">
-        <h2>Skills & Interests</h2>
-        <p><strong>Languages:</strong> Russian, Kazakh, English, Ukrainian, French</p>
-        <p><strong>Technology:</strong> Microsoft Excel, Bloomberg, SQL, UX Design, Statistics</p>
-        <p><strong>Interests:</strong> Fashion, Football, Volunteering, Formula 1, DJing</p>
-    </section>
-    <footer>
-        <p>© 2025 Rakhat Nurgali | Hosted on GitHub Pages</p>
-    </footer>
-</body>
-</html>
+   
 
 # Layout
 show_social: true
