@@ -30,7 +30,7 @@ __Secondary__: Data Analytics, Strategic Finance, Capital Markets
 
 # Highlight Project: Georgia Tech Solar Racing  
 
-<img align="left" src="solar_racing_project.jpg" alt="Solar Racing" width="400" height="300">  
+<img align="left" src="solar_racing_project.jpeg" alt="Solar Racing" width="400" height="300">  
 As Financial Analyst & Advisor, I led funding initiatives that secured over $200K in sponsorships, including a major deal with Delta Airlines. By optimizing budget allocations and prioritizing critical design testing, the team achieved over 35% performance improvement.  
 My contribution helped elevate the team’s national profile in renewable energy innovation and competitive engineering.
 
