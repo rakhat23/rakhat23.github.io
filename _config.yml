@@ -16,7 +16,7 @@ minimal: false
 navigation:
   - {file: "Projects.md", title: "Projects"}
   - {file: "Experience.md", title: "Experience"}
-  - {file: "RakhatCV.pdf", title: "CV"}
+  - {url: "RakhatCV.pdf", title: "CV"}
 
 external:
   - {title: Mail, icon: envelope, url: "mailto:rnurgali3@gatech.edu"}
