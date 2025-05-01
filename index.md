@@ -13,7 +13,6 @@ I’m currently pursuing a **Bachelor of Science in Business Administration – 
 * __Email__: [rnurgali3@gatech.edu](mailto:rnurgali3@gatech.edu)  
 * __LinkedIn__: [https://www.linkedin.com/in/rakhatnurgali](https://www.linkedin.com/in/rakhatnurgali)  
 * __GitHub__: [https://github.com/rakhatnurgali](https://rakhat23.github.io/)
-
 ## Career Interests:
 __Primary__: Investment Banking, FinTech, Financial Modeling  
 __Secondary__: Data Analytics, Strategic Finance, Capital Markets  
