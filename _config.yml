@@ -20,7 +20,7 @@ navigation:
 
 external:
   - {title: Mail, icon: envelope, url: "mailto:rnurgali3@gatech.edu"}
-  - {title: Github, icon: github, url: "https://rakhat23.github.io/"}
+  - {title: Github, icon: github, url: "https://rakhat23.github.io"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/rakhatnurgali"}
 
 comments:
