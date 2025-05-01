@@ -1,102 +1,31 @@
-title: "Rakhat Nurgali"
-email: "rnurgali3@gatech.edu"
-linkedin_username: "rakhatnurgali"
-baseurl: ""
-url: "https://rakhatnurgali.github.io"
-theme: contrast
+title: "Rakhat Nurgali's Professional Website"
+author: "Rakhat Nurgali"
+description: "Rakhat Nurgali | Finance @ Georgia Tech | FinTech & CS Minor"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
 
+# Layout
+show_excerpts: false
+show_frame: true
+show_sidebar: false
+minimal: false
+
+# Menu
 navigation:
-  - title: Home
-    url: "/"
-  - title: CV
-    file: "RakhatCV.pdf"
-  - title: Projects
-    url: "/projects"
-  - title: Experience
-    url: "/experience"
+  - {file: "Projects.md", title: "Projects"}
+  - {file: "Experience.md", title: "Experience"}
+  - {file: "RakhatCV.pdf", title: "CV"}
 
-social:
-  email: "mailto:rnurgali3@gatech.edu"
-  linkedin: "https://www.linkedin.com/in/rakhatnurgali"
+external:
+  - {title: Mail, icon: envelope, url: "mailto:rnurgali3@gatech.edu"}
+  - {title: Github, icon: github, url: "https://github.com/rakhatnurgali"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/rakhatnurgali"}
 
----
-
-# Home (index.md)
-
----
-
-layout: home
-
-![Headshot](assets/images/headshot.jpg)
-
-Hi, I'm **Rakhat Nurgali**, a Finance student at **Georgia Institute of Technology** with a concentration in FinTech and minor in Computer Science. I'm passionate about financial modeling, technology-driven finance solutions, and analytics. 
-
-Feel free to explore my work, or connect with me on [LinkedIn](https://www.linkedin.com/in/rakhatnurgali).
-
-Contact: [rnurgali3@gatech.edu](mailto:rnurgali3@gatech.edu)
-
----
-
-# CV (cv.md)
-
----
-
-layout: page
-
-## Education
-
-- **Georgia Institute of Technology**, Atlanta, GA  
-  Bachelor of Science in Business Administration – Finance & FinTech CS Minor, Expected Spring 2026  
-  *Dean’s List, Faculty Honors*
-
-## Skills
-
-- **Languages:** Russian, Kazakh, English, Ukrainian, French
-- **Technologies:** Excel, Python, Bloomberg, SQL, UX Design, Agile, SAP, Kanban
-
-## Awards
-- Winner, International Asian Mathematic Olympiad 2019
-- CFA Level I Candidate
-- CPA Candidate
-
----
-
-# Projects (projects.md)
-
----
-
-layout: page
-
-## Georgia Tech Solar Racing
-- Secured sponsorships exceeding $200K (including Delta Airlines)
-- Managed budgets to optimize funds allocation for critical project phases
-
-## Stanford University Investment Research
-- Improved portfolio returns by 22% through CEP forecasting
-- Conducted extensive market analysis and risk assessment
-
----
-
-# Experience (experience.md)
-
----
-
-layout: page
-
-### Kaspi Bank (May - August 2024)
-- Engineered financial models for M&A deals ($60M+)
-- Created detailed pitch books for equity and debt offerings ($75M+)
-
-### Asyl Logistics (June - August 2023)
-- Developed Excel models for operational efficiency and profitability analysis
-- Conducted extensive financial modeling and forecasting
-
-### AB Restaurants (May - August 2021)
-- Financial modeling leading to profitability improvement ($100K+)
-- Optimized operational resources across multiple restaurants
-
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+comments:
+#  disqus_shortname: ""
+#  isso_domain: ""
 
 plugins:
  - jekyll-feed
