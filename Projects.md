@@ -3,7 +3,7 @@ layout: page
 title: "Projects"
 ---
 
-# Projects
+# My projects:
 
 ## Georgia Tech Solar Racing (2024 – Present)  
 **Role: Financial Analyst & Advisor**
