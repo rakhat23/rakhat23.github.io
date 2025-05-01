@@ -3,7 +3,7 @@ layout: page
 title: "Rakhat Nurgali's Professional Website"
 ---
 
-<img src="RakhatHeadshot.jpg" alt="Rakhat Nurgali Headshot" width="500">          
+<img src="RakhatHeadshot.jpg" alt="Rakhat Nurgali Headshot" width="400">          
 ---
 
 # Welcome to my website! I am Rakhat Nurgali  
@@ -36,8 +36,4 @@ My contribution helped elevate the team’s national profile in renewable energy
 
 
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
+
