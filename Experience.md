@@ -3,7 +3,7 @@ layout: page
 title: "Experience"
 ---
 
-# Professional Experience
+# My professional experience
 
 ## Kaspi Bank — Corporate and Investment Intern  
 **Almaty, Kazakhstan | May – August 2024**
