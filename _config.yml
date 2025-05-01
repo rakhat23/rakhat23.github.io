@@ -16,11 +16,11 @@ minimal: false
 navigation:
   - {file: "Projects.md", title: "Projects"}
   - {file: "Experience.md", title: "Experience"}
-  - {file: "RakhatCV.pdf", title: "CV"}
+  - {file: (RakhatCV.pdf), title: "CV"}
 
 external:
   - {title: Mail, icon: envelope, url: "mailto:rnurgali3@gatech.edu"}
-  - {title: Github, icon: github, url: "https://github.com/rakhat23"}
+  - {title: Github, icon: github, url: "https://rakhat23.github.io/"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/rakhatnurgali"}
 
 comments:
