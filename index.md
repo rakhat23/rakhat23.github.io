@@ -3,13 +3,13 @@ layout: page
 title: "Rakhat Nurgali's Professional Website"
 ---
 
-<img src="/images/RakhatHeadshot.jpg" alt="Rakhat Nurgali Headshot" width="840">          
+<img src="RakhatHeadshot.jpg" alt="Rakhat Nurgali Headshot" width="840">          
 ---
 
 # Welcome to my website! I am Rakhat Nurgali  
 I’m currently pursuing a **Bachelor of Science in Business Administration – Finance** at **Georgia Institute of Technology**, with a **FinTech concentration** and a **minor in Computer Science**. I'm passionate about financial modeling, market research, and applying data analytics in investment decision-making.  
 
-* __Profile__: [**Link to my CV**](/files/RakhatCV.pdf)     
+* __Profile__: [**Link to my CV**](RakhatCV.pdf)     
 * __Email__: [rnurgali3@gatech.edu](mailto:rnurgali3@gatech.edu)  
 * __LinkedIn__: [https://www.linkedin.com/in/rakhatnurgali](https://www.linkedin.com/in/rakhatnurgali)  
 * __GitHub__: [https://github.com/rakhatnurgali](https://github.com/rakhatnurgali)  
