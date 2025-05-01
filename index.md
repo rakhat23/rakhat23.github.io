@@ -3,7 +3,7 @@ layout: page
 title: "Rakhat Nurgali's Professional Website"
 ---
 
-<img src="RakhatHeadshot.jpg" alt="Rakhat Nurgali Headshot" width="400">          
+<img src="RakhatHeadshot.jpg" alt="Rakhat Nurgali Headshot" width="280">          
 ---
 
 # Welcome to my website! I am Rakhat Nurgali  
